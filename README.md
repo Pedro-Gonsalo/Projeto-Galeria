@@ -55,3 +55,5 @@ Projeto-Galeria/<br>
 4. Abra o arquivo index.html em seu navegador para visualizar a galeria.
 
 ## 📸 Demonstração
+![image](https://github.com/user-attachments/assets/fdb79043-d6e2-45d4-92e5-2935b09f0c8d)
+
